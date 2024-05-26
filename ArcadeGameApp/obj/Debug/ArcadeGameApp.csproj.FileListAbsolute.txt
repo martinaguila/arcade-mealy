@@ -1,0 +1,9 @@
+C:\Users\martin aguila\source\repos\ArcadeGameApp\ArcadeGameApp\bin\Debug\ArcadeGameApp.exe.config
+C:\Users\martin aguila\source\repos\ArcadeGameApp\ArcadeGameApp\bin\Debug\ArcadeGameApp.exe
+C:\Users\martin aguila\source\repos\ArcadeGameApp\ArcadeGameApp\bin\Debug\ArcadeGameApp.pdb
+C:\Users\martin aguila\source\repos\ArcadeGameApp\ArcadeGameApp\obj\Debug\ArcadeGameApp.csproj.AssemblyReference.cache
+C:\Users\martin aguila\source\repos\ArcadeGameApp\ArcadeGameApp\obj\Debug\ArcadeGameApp.Properties.Resources.resources
+C:\Users\martin aguila\source\repos\ArcadeGameApp\ArcadeGameApp\obj\Debug\ArcadeGameApp.csproj.GenerateResource.cache
+C:\Users\martin aguila\source\repos\ArcadeGameApp\ArcadeGameApp\obj\Debug\ArcadeGameApp.csproj.CoreCompileInputs.cache
+C:\Users\martin aguila\source\repos\ArcadeGameApp\ArcadeGameApp\obj\Debug\ArcadeGameApp.exe
+C:\Users\martin aguila\source\repos\ArcadeGameApp\ArcadeGameApp\obj\Debug\ArcadeGameApp.pdb
